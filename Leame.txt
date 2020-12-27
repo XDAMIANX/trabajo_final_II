@@ -1,0 +1,1 @@
+Para backend utilizar xammp com mysql
